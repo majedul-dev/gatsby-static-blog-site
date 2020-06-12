@@ -1,0 +1,24 @@
+.blog-lists {
+    list-style-type: none;
+    margin: 0;
+}
+.blog-links {
+    text-decoration: none;
+}
+.blog-item {
+    background: #f4f4f4;
+    max-width: 70%;
+    border-radius: 4px;
+    padding: 10px 30px;
+}
+.blog-item:hover {
+    background: #e4e4e4;
+}
+.title {
+    color: #000;
+}
+.date {
+    color: #777777;
+    font-size: .8rem;
+    font-style: italic;
+}
